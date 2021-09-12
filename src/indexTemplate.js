@@ -33,7 +33,7 @@ module.exports = team => {
             
         </div>
         <footer class="footer text-center bg-primary pt-5 pb-5 text-white">
-            <h3>&copy; Mehak Zehra 2021</h3>
+            <h3>&copy; Mehak Zehra 2021 ♥ </h3>
         </footer>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="assets/js/script.js"></script>
