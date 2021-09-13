@@ -82,7 +82,6 @@ const createManagerProfile = (myTeam) => {
 
 const createEngineerProfiles = (myTeam) => {
     const createEngineerDiv = (engineer) => {
-        // loop through the array for all the engineers, if its an enginer, create div and append to final results
         return `
             <div class="card border-primary m-3" style="width: 18rem;">
                 <div class="card-body">
@@ -108,7 +107,6 @@ const createEngineerProfiles = (myTeam) => {
 
 const createInternProfiles = (myTeam) => {
     const createInternDiv = (intern) => {
-        // loop through the array for all the engineers, if its an enginer, create div and append to final results
         return `
                 <div class="card border-primary m-3" style="width: 18rem;">
                     <div class="card-body">

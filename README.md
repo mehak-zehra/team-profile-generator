@@ -16,7 +16,7 @@
   ```npm install inquirer and npm install jest --save-dev```(for unit testing)
 
   ## Usage  
-  This application can be used by any team member who wants to generate a nice team profile. User will be prompted with different questions about their team. Answers all of the following questions, once you're finished with the profile. File will be generated in the dist directory and User can also open it in the default browser.
+  This application can be used by a software engineering  who wants to generate a nice team profile. User will be prompted with different questions about their team. Answers all of the following questions, once you're finished with the profile. File will be generated in the dist directory and User can also open it in the default browser.
 
   ## License  
     None
@@ -27,6 +27,10 @@
   ![alt text](assets/screenshot2.png)
   
   ## Video Walk-through
+  ### Part-1
+  https://youtu.be/gAwhNzZ6TzY
+  ### Part-2
+  https://youtu.be/M84QzQhAyzA
   
   
   ## Technologies
@@ -35,6 +39,7 @@
     OOP
     NPM
     Inquirer.js
+    open.js package
     Jest
     HTML
     Bootstrap

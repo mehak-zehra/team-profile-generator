@@ -163,7 +163,6 @@ function addEngineer() {
     ])
     .then((answers) => {
         const engineer = new Engineer(answers.engineerName, answers.engineerId, answers.engineerEmail, answers.engineerGithub)
-        // console.log(answers);
         teamArr.push(engineer);
         idArr.push(answers.engineerId);
         addTeamMembers();
